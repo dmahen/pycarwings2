@@ -72,6 +72,7 @@ from responses import *
 import base64
 from Crypto.Cipher import Blowfish
 import binascii
+from .responses import *
 
 BASE_URL = "https://gdcportalgw.its-mo.com/api_v190426_NE/gdc/"
 
